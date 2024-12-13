@@ -1,0 +1,18 @@
+# Output directory
+output/
+
+# Environment variables
+.env
+
+# Python virtual environment
+url_downloader/
+__pycache__/
+*.pyc
+
+# IDE specific files
+.vscode/
+.idea/
+
+# Operating System files
+.DS_Store
+Thumbs.db 
