@@ -14,12 +14,14 @@ A Python script that downloads documents from web pages. It can process a single
 
 ## Directory Structure 
 
+```
 url_downloader/
 ├── document_downloader.py    # Main script
 ├── requirements.txt         # Python dependencies
 ├── urls.txt                # (Optional) List of URLs to process
 ├── .env                    # Environment configuration
 └── output/                 # Downloaded documents directory
+```
 
 ## Environment Configuration
 
